@@ -1,1 +1,2 @@
 "# Internet-speed-tester-html" 
+     This is a internet speed tester web/app . Made by Haider . Using languages HTML , CSS and JavaScript .This web countinouly check the users internet speed and give them results.
